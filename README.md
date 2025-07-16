@@ -5,7 +5,7 @@ This project is a Python-based voice assistant that:
 - Converts it to text
 - Sends it to Google's Gemini 1.5 Flash model
 - Speaks back the AI-generated response using gTTS
-- Connects to a LiveKit video room (optional)
+- Connects to a LiveKit video room
 
 ## 💡 Features
 - Real-time voice interaction
@@ -28,6 +28,7 @@ This project is a Python-based voice assistant that:
 ## Install them with:
 ```bash
 pip install -r requirements.txt
+```
 
 ## Create a .env file using the .env.example format
 
